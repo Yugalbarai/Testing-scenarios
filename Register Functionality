@@ -1,0 +1,38 @@
+Register functionality
+Scenario – validate register functionality is working or not
+Test cases
+Validate register fn by entering only mandatory fields
+Validate register fn by entering  mandatory  & non mandatory fields
+Validate register fn by without entering any fields
+
+Validate email is receiving after user registeration
+Validate proper error messages are showing when you are trying to regisster by without entering in mandatory fields
+Validate object behaviourl testing for every input & buttons /object
+Validate sizes & color (height , width , characters accepting by input fields ) combinations & UI part as per req
+Validate * symbol is there for mandatory fields
+
+Validate registr fn with newsletter subscription  Yes & No 
+Validate user details are avilable in databasse arfter successfully user registration
+Validate after registration page is navigating to login page
+Validate tab key is working to enter in new field
+Validate register button is working with enter key
+Validate entered fields are still on  page after refresh page
+Validate input field are working with spaces for full name , address 
+Validate input field should not work with spaces for phone number , email id 
+Validate trimming for input fields for leading & trailing spaces whemn it go to save in database
+Validate privacy policy checkbox is not selected by default
+Validate user can register with  privacy policy checkbox is selected 
+Validate user can register with  privacy policy checkbox is not selected
+Validate links existance & execution on register page 
+Validte register functionality on all supported environmnets , with specified tools & hardware specifications
+Validate register , cancel , reset buttons at last
++ Password complexity standard all parameters  
+
+
+
+
+
+Negative testcases
+Validate user is not able to login  with existing username /email 
+Validate user is not able to login  with invalid  username /email / invalid email format + error message showing
+Validate user is not able to login  with invalid  phonenumber   + error message showing
