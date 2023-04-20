@@ -1,0 +1,153 @@
+ATM machine
+Test scenarios
+Verify  ATM machine is working fine with all possible transactions
+
+Prerequisities – active & inactive ATM card is needed
+Atm machine is with cash & without cash
+
+Test cases
+Verify card reader is working correctly
+Verify working flow of instructions & screens appear on atm screen is proper ( by sequential testing)
+Verify the cash dispenser is working fine with cash / without cash/ with active card / with inactive card
+
+Verify the receiptr printer is working fine
+Verify all data on print ( name , balnced amt , transcted amt , type of trancasaction ) is showing
+Ink on print , size of print & letters size on print  , how long printr paper can work 
+
+Verify touch  buttons & press buttons working correctly – by all possible ways 
+Verify text on screen is visible
+
+Negative 
+Verify functionality by attempting 3 wrong pins
+Verify deposit cash functionality , balance check fn , mob number update , a/c details fn , transfer money fn 
+with cash -  min amt , max amt , max transaction limit , currency size notes & its availability ac to customer req & error messages
+
+
+
+
+
+
+
+
+Pen
+
+Scenarios 
+Positive Scenarios – 
+1.	verify pen quality 
+2.	verify pen logo is proper or not
+3.	verify pen is working or not
+
+Negative scenarios -
+1.	check pen is working in all wather condition / in all tempretures
+
+
+Testcases 
+Prerequisite for performing all these test cases is, a Pen must have a refill and the refill must have ink. 
+
+Positive testcases
+1.	The grip of the pen: Verify if you are able to hold the pen comfortably. 
+2.	Writing: Verify if you are able to write smoothly. 
+3.	Verify that the pen is not making any sound while writing. 
+4.	Verify the ink flow. It should not overflow nor get a break either.
+5.	Verify the quality of the material used for the pen. 
+6.	Verify if the company or pen name is visible clearly. 
+7.	Verify if the pen color or text written on the pen is not getting removed easily. 
+8.	Verify pen ink is spreading on paper after writing or not
+9.	Verify, whether the width of the line drawn by the pen is as per the expectations or not. 
+10.	Verify the ink color, it should be consistent from the start till the end. 
+11.	Verify if a pen can write on a variety of papers like smooth, rough, thick, thin, glossy etc. 
+12.	Verify for the waterproof ink. [Not for gel and ink pens]. 
+13.	Verify if the ink will not get dried easily by keeping the pen open for some time. [Not for ink pen] 
+14.	Verify if any other refill fits in the pen or not. 
+15.	Verify that the pen doesn’t have sharp edges or corners. 
+16.	Verify if the ink and external assembly of the pen is made of non-toxic material.
+17.	Verify the cap with pen is attached 
+18.	Verify cap has not any sharp corners
+19.	Verify pen we can tuck in shirt
+20.	Verify the look of pen is good 
+21.	Verify pen color combination as in req
+Negative Test Cases/Scenarios 
+1.	Put the pen in water and then try to write. Verify if you are able to write with this pen. The pen can get wet because of the water spill on the 
+table or during the rainy season. It can be due to any reason. 
+2.	Drop the pen from some height (Table height) in the upside-down position. Verify if you are able to write with this pen. By mistake, the pen can any 
+time fall on the ground. So testing this possibility to know its impact, will help us in knowing the quality of the pen. 
+For both the above test cases, the frequency that these scenarios will happen may not be very high but it is not even very low. So by knowing its impact, 
+we will be able to know more about the quality of the pen. 
+
+Performance Test Cases/Scenarios 
+1.	Verify how fast you can write with this pen. 
+2.	Verify if the pen will perform the same even though you use it continuously for hours. 
+3.	Verify ‘How much can be written in one refill/ink sac?’ 
+4.	Verify if the tip or nib of the pen is not destroyed after continuous writing for hours. 
+Out of Scope Test Cases 
+1. Verifying the pen working in different gravity. 
+     2. Verifying the pen working at different temperatures (Especially at 0 degrees).
+
+
+
+
+
+
+
+
+
+
+
+Chair
+	Scenarios –
+            Positive scenarios 
+1.	Verify loadibility norms  of chair
+2.	Verify overall quality of chair
+3.	Verify necessary facilities included in chair ( eg – cushion , hand support )
+4.	Verify color & design specifications
+
+Negative scenarios –
+1.	Check breakibility of chair
+2.	Check chair performance in all weather conditions
+3.	Check how long / life of chair
+
+
+Testcases 
+1.	 Verify that the chair is stable enough to take an average human load. 
+2.	 Check the material used in making the chair-wood, plastic etc. 
+3.	Check if the chair’s leg are level to the floor. 
+4.	 Check the usability of the chair as an office chair, normal household chair. 
+5.	 Check if there is back support in the chair. 
+6.	Check if there is support for hands in the chair. 
+7.	Verify the paint’s type and color. 
+8.	Verify if the chair’s material is brittle or not. 
+9.	Check if cushion is provided with chair or not. 
+10.	 Check the condition when washed with water or the effect of water on the chair. 
+11.	 Verify that the dimension of chair is as per the specifications. 
+12.	Verify that the weight of the chair is as per the specifications.
+13.	  Check the height of the chair’s seat from floor. 
+14.	Check color specification of charir
+15.	Check design on chair
+16.	Check chair is able to insert on another chair
+17.	Check how much chairs we can overload on one another
+18.	Check bottom chair condition after overloading of chairs
+19.	Check chair condition in diffeernt weather condition ( rainy & summer )
+20.	Check chair condition in high & low tempreature
+
+
+Quality testing testcases for chair
+1.	Fall down chair from some height & check its breakability
+2.	Through an heavy object on chair & check its breakibility or crack on it
+
+
+
+
+
+
+
+
+
+
+
+Coffee machine
+Machine quality , size , litres coffe can make , color of machine , coffee spots are easily removable or not , 
+check diffeernt buttons , quantity of  sugar- water-milk -coffee powder , brand logo , user manual , check of 2 buttons press simultaneously , voltage on working , 
+humans neede , full automatic mode, how much cups can prepare , life of machine , warrenty 
+
+
+
