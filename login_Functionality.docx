@@ -1,0 +1,95 @@
+Login Functionality
+
+Scenarios 
+Positive scenarios
+Validate the working of login functionality 
+
+Negative scenarios  - nothing
+
+Prerequisites 
+Open application URL
+Vaild login credentials needed
+
+
+Positive testcases
+
+Object behavioural testing 
+Verify cursor is bydefault in username field
+Verify login button is focus or unfocus
+
+Input domain testing 
+Verify username can type
+Verify password field can type 
+
+Links existance & execution testing 
+Verify after entering correct credentials & clicking on login button , its navigating to home page 
+Validate user is able to navigate to another pages from login page
+Validate the different ways to navigate on login page ( eg – register ac page , my account login link )
+
+GUI testing
+Verify color of login button is as in req
+Verify sizes of login button & input fields
+Verify font in input is as per req
+
+Error handling testing
+Verify  error messge is show when user is try to login with correct username & incorrect password
+Verify user error messge is show when user is try to login with incorrect username & correct password
+Verify error message is showing when user is trying with blank username & pswd
+Verify error message is showing when user is trying with username & blank pswd
+Verify error message is showing when user is trying with blank username & blank pswd
+Verify erroe message is showing when user is trying to login with incorrect password format 
+Verify error messagge is showing when user is exceeded password character limit 
+Verify error messagge is showing when user is not meet password character limit 
+
+
+encryption  & decryption testing
+Verify if there is a checkbox with the label “remember password” on the login page. 
+Verify if there is a show /hide password checkbox 
+Verify remember password checkbox is selectable or not
+Verify show/hide password checkbox is selectable or not
+
+Validate username & password is not visible after click on hide checkbox
+
+State transition testing 
+Validate the number of unsuccessful attempts ( according to type of appln state transiton techniques will get applied )
+
+Cookies & sessions testing 
+Validate timeout session for login functionality
+
+Compatibility testing 
+Validate login page functionality in all supported environmnets ( browsers , hardware specifications)
+
+Other testcases
+Verify user can navigate on difeernt fields through tab key
+Check password can copy pasted or not with right mouse & click ctrl +c keys 
+
+Verify user is able to login with correct credentials 
+Verify pop up is showing after successfully login
+
+Verify login button is working by mouse click
+Check login button is working by pressing enter key 
+
+Verify user is able to login after enterd valid credentials – click on login & press browsing back button
+
+Validate user should not able to login with inactive ( deactivated ac ) credentials ( when ac is not in use its get deactivated)
+
+
+
+Negative testcases
+Verify user is not able to login with incorrect credentials 
+Verify user is not able to login with correct username & incorrect password
+Verify user is not able to login with incorrect username & correct password
+Verify user is not able to login with  blank username &  password
+Verify user is not able to login with   username & blank password
+Verify user is not able to login with   blank username & blank password
+
+All Password complexity testcases /standard
+
+Security Test Cases for Login Page 
+•	verify there is a limit for unsuccessful login attempts , so that user cannot use brute force method
+•	Verify after entering incorrect username/password error message  should not clarify where it is actual error is it in username / password ( it will helpful for hackers)
+•	Verify the login session timeout duration. So, once logged in a user cannot be authenticated for a lifetime. 
+•	Verify that once logged in, clicking the browser back button doesn’t log out the user.
+•	Validate the password is not visible in page source
+•	Validate user is still login with , close login  browser page & go to another browserr page 
+•	Validate user is logout after sometime when user don’t do any action on page , with proper error message ( note down time as in req)
