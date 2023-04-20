@@ -1,0 +1,64 @@
+whatsapp chat ( same can be for facebook)
+font size , back wallpaper , send & receive clarification , reply on specific text , chat contacts mgmt , 
+user online offline status , last seen 
+chat backup , update phone number , disable /delete/hide chat
+UI part for all ( scrolling , hieght , size , color etc )
+Chat contacts , 
+story update , delete , 24 hrs , video , image uploading , size - quality – duration of image & videoss
+profile photos – update , delete , status /about 
+whatsapp logo , authentication through screen/face/finger lock 
+daywise messages , search in messages
+whatsapp calls – voice & video ( max- min limit ) , read & unread messages , 
+whatsapp group – max & min limit , admin rights 
+chat send , chat – contact delete , block fn , archieved fn
+scanner in whatsapp
+
+
+
+
+
+
+
+phone pe app ( same can be for gpay/paytm)
+1.	To validate fund transfer through QR code
+2.	To validate fund transfer throughaccount number
+3.	To validate fund transfer through UPI
+4.	To validate fund transfer through mobile number
+5.	To check login/sign up functionality
+6.	To check account balance
+7.	To check notifications part working
+8.	to check recharge & pay bills part
+9.	to check sponsered links working
+10.	to check bookings made through app
+11.	to check switching apps working
+12.	to check subscriptions part working
+13.	to check sponsered games working
+14.	to check insurance part working
+15.	to check correct taransaction history display.
+
+
+
+
+
+
+Video/media player app ( same can be for songs app)
+Ex – youtube , netflix , amazon prime 
+Prerequisities – appln should be installed on device / open in web
+
+Proper internet connectivity , different video quality , sound low & high , clear voice – not lagging voice  , comapre original vs uploded video , 
+playback spped controls , play – pause – rewatch  functionality  , progress bar of watching , video downloads in parts from that white line , forward – backward play , 
+Like ,dislike , subscribe  , unsuscribe , notification , views  dipslay & working 
+Delete video from player , edit thumbnail  , view analytics for uploader only
+Check 2 videos not to run on same time , kids mode , adult content , sensitive content autherization testing 
+history of watching , clear history ,  watched list , watch later , playlist creation , restrictions to watch  videos , analyctis control ,  
+verify – video total – remaining duration , description , thumbnail is displaying 
+verify ads showing before to start & in between video 
+verify media player is not supporting to only audio files
+
+checkout comment section – max word limit , rating for comments , reply on comment , date of comment , how old is comment , like dislike on commnet , 
+max – min comments , delete - modify  comment 
+uploading parameters – uploading speed , restrictions for video ( like thumbnail , description , content type , sound quality , video quality , owner of video , 
+downloading paramenters – downloading speed , downloading restrictions , third party downloads suppport or not , actual vs uploaded downloading quality ,
+remove private info when downloads , download logo like in tiktok
+
+
